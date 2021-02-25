@@ -1,5 +1,5 @@
 ### Hello there 👋
 
 - 🌱 I’m currently learning and studying a lot of design and filmmaking.
-- 💻 Computational Systems Student.
+- 💻 Systems Engineering Student.
 - ✅ Internet of all things certificate by Cisco.
